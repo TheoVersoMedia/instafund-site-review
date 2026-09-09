@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# Not needed for the deployed static pages (self-contained HTML)
+/EXPORT/
+/screenshots/
+/screenshots-2x-backup/
+/instafund-home/
